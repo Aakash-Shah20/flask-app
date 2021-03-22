@@ -1,6 +1,5 @@
 pandas
 numpy
 flask
-pickle==0.7.5
 requests
 json 
